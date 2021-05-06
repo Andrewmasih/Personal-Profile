@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Lato100, 200, 300, 400, 500, 600, 700, 800&display=swap');
+
+*{ 
+  margin: 0;
+  padding: 0;   
+  border: 0;
+}
+
+
+header {
+  font-family: Helvetica, sans-serif;  
+  background-color: rgb(231, 104, 19);
+  height: 300px;
+  
+
+}
+
+nav {
+  background-color:rgb(233, 185, 27);
+  position: fixed;
+
+}
+
+#menu, li {
+  display: inline-block;
+  letter-spacing: 4px;
+  text-decoration: none;
+  float: right;
+}
+
+header {
+  background-image: url("assets/img/city of london.webp");
+}
+
+.city-of-londonbridge {
+  background-image: url("assets/img/city of london.webp");
+  transform: translate(0%, 0.922208%) translate3d(0px, 0px, 0px) scale(1.01854, 1.01854);
+}
