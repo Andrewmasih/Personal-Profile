@@ -9,16 +9,24 @@
 
 header {
   font-family: Helvetica, sans-serif;  
-  background-color: rgb(231, 104, 19);
+  background-color: rgb(204, 200, 198);
   height: 300px;
   
 
 }
 
 nav {
-  background-color:rgb(233, 185, 27);
+  background-color:rgb(192, 191, 188);
   position: fixed;
 
+}
+
+body {
+  background-color: rgb(175, 173, 173);
+}
+
+section {
+  background-color: rgb(175, 173, 173);
 }
 
 #menu, li {
